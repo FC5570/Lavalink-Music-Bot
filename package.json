@@ -1,0 +1,19 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "lavaclient": "^3.1.2",
+    "erela.js": "^2.0.1",
+    "erela.js-spotify": "^1.0.2",
+    "discord-tts": "^1.0.1"
+  }
+}
