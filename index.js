@@ -49,5 +49,5 @@ const Spotify  = require("erela.js-spotify");
     channel.send("Queue has ended.");
     player.destroy();
   });
-
 client.login(token)
+
